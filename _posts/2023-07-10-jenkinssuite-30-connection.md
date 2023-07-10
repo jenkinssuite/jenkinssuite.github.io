@@ -1,14 +1,10 @@
 ---
 title: Jenkins Suite Connection
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins Suite Connection
 categories:
-  - jenkins
+  - jenkinssuite
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkinssuite
 ---
 
 ## Connection

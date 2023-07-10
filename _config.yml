@@ -27,7 +27,7 @@ repository               : "jenkinssuite/jenkinssuite" # GitHub username/repo-na
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -292,6 +292,10 @@ defaults:
       sidebar:
         nav: "categories"
       sidebar_main: true
+      classes: wide
+      toc: true
+      toc_sticky: true
+      toc_icon: "book-open"
   # _pages
   - scope:
       path: "_pages"
@@ -299,10 +303,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+      classes: wide
+      toc: false
+      toc_sticky: true
+      toc_icon: "book-open"

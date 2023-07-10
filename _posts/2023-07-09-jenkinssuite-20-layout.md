@@ -1,14 +1,10 @@
 ---
 title: Jenkins Suite Layout
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins Suite Layout
 categories:
-  - jenkins
+  - jenkinssuite
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkinssuite
 ---
 
 Jenkins Suite 를 설치하고 나면 좌측 Activity Bar 에 새로운 Jenkins 아이콘을 볼 수 있습니다.

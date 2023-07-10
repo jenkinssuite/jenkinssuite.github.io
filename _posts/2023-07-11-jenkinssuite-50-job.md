@@ -1,14 +1,10 @@
 ---
 title: Jenkins Suite Job
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins Suite Job
 categories:
-  - jenkins
+  - jenkinssuite
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkinssuite
 ---
 
 ## Job

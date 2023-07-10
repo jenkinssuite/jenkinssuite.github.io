@@ -1,9 +1,9 @@
 ---
-title: "Jenkins"
+title: "Jenkins Suite [en]"
 layout: category
-permalink: /categories/jenkins
+permalink: /categories/en
 author_profile: true
-taxonomy: jenkins
+taxonomy: jenkinssuite_en
 sidebar:
   nav: "categories"
 ---

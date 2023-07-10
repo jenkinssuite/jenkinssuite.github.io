@@ -1,6 +1,15 @@
 ---
-title: Jenkins Suite
+title: Jenkins Suite - Sample
 description: Jenkins Suite 한글 가이드
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  # og_image: "/images/jenkins/jenkins1.png"
+  overlay_image: "/images/jenkins/jenkins1.png"
+  overlay_filter: 0.5
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Download"
+      url: "https://github.com"
 categories:
   - jenkinssuite
 tags:
@@ -17,7 +26,7 @@ VSCode 에서 편리하게 Jenkins 의 기능을 사용 (빌드)하고자 하는
 
 1. Jenkins [다운로드](https://www.jenkins.io/download/){: .btn .btn--info}
 2. Visual Studio Code [다운로드](https://code.visualstudio.com/Download){: .btn .btn--info}
-3. Jenkins Suite [다운로드](https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite){: .btn .btn--info}
+3. Jenkins Suite: [다운로드](https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite){: .btn .btn--info}
 
 다음의 Jenkins 플러그인은 필수는 아니지만 설치를 권장합니다.
 
@@ -41,4 +50,4 @@ WsTalk은 수동 설치만 가능합니다.
 - [Generate Code](../jenkinssuite-70-generate)
 
 이 문서는 Jenkins 및 VS Code가 설치되어 있다는 가정하에 작성되었습니다.
-{: .notice--success}
+{: .notice--warning}

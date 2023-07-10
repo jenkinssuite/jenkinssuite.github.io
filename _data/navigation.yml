@@ -18,3 +18,9 @@ categories:
     children:
       - title: "Jenkins Suite"
         url: /categories/
+      - title: "Jenkins Suite [en]"
+        url: /categories/en
+  - title: "Jenkins"
+    children:
+      - title: "Jenkins"
+        url: /categories/jenkins

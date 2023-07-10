@@ -1,14 +1,10 @@
 ---
 title: Jenkins Suite Reservation
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins Suite Reservation
 categories:
-  - jenkins
+  - jenkinssuite
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkinssuite
 ---
 
 ## Reservation

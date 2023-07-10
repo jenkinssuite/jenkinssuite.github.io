@@ -1,14 +1,10 @@
 ---
 title: Jenkins Suite Generate
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins Suite Generate Code Snippet XML Groovy Pipeline
 categories:
-  - jenkins
+  - jenkinssuite
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkinssuite
 ---
 
-## Generate
+## Generate Code

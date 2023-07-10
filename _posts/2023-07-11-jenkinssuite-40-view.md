@@ -1,14 +1,10 @@
 ---
 title: Jenkins Suite View
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins Suite View
 categories:
-  - jenkins
+  - jenkinssuite
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkinssuite
 ---
 
 ## View

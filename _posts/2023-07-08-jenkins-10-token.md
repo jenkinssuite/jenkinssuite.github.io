@@ -1,14 +1,11 @@
 ---
 title: Jenkins 서버의 Token 생성
-toc: true
-toc_sticky: true
-breadcrumb: true
+description: Jenkins 서버의 Token 생성
 categories:
   - jenkins
 tags:
-  - Jenkins
-  - Jenkinssuite
-  - vscode
+  - jenkins
+  - token
 ---
 
 우선 Jenkins Suite에서 Jenkins 서버에 접근하기 위해서는 Jenkins 서버의 API 토큰을 발급받아야 합니다. <br />
