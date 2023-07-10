@@ -22,6 +22,7 @@ VSCode 에서 편리하게 Jenkins 의 기능을 사용 (빌드)하고자 하는
 다음의 Jenkins 플러그인은 필수는 아니지만 설치를 권장합니다.
 
 ## Optional Install [Recommend]
+
 - JobDSL [https://plugins.jenkins.io/job-dsl/](https://plugins.jenkins.io/job-dsl/)
 - categorized-view [https://plugins.jenkins.io/categorized-view/](https://plugins.jenkins.io/categorized-view/)
 - WsTalk [https://github.com/utocode/wstalk/releases/](https://github.com/utocode/wstalk/releases/)
@@ -32,8 +33,9 @@ WsTalk은 수동 설치만 가능합니다.
 <br />
 
 ## 목차
-* [Jenkins 서버의 Token 생성](../../jenkins/jenkins-10-token/)
-* [화면 구성](../jenkinssuite-20-layout/)
+
+- [Jenkins 서버의 Token 생성](../../jenkins/jenkins-10-token/)
+- [화면 구성](../jenkinssuite-20-layout/)
 - [설정 / 접속](../jenkinssuite-30-connection)
 - [View 전환 및 생성](../jenkinssuite-40-view)
 - [Job 생성 및 수정, 실행](../jenkinssuite-50-job)
