@@ -20,11 +20,11 @@ title                    : "Jenkins Suite"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jenkins Suite"
-description              : "Manage your Jenkins Job inside Visual Studio Code"
+description              : "Jenkins a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Linux, macOS and other Unix-like operating systems. This extension (Jenkins Suite) was created to make it easier to use Jenkins in Visual Studio Code"
 url                      : "https://jenkinssuite.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jenkinssuite/jenkinssuite" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/800x600.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -107,12 +107,12 @@ author:
   name             : "JenkinsSuite"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Jenkins Suite Developer"
-  location         : "Korea"
+#  location         : "Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:utoever+jenkinssuite@email.com"
+      url: "mailto:utoever+jenkinssuite@gmail.com"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

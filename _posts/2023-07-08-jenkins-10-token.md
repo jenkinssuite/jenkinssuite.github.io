@@ -15,16 +15,24 @@ tags:
 ## 절차
 
 ### 로그인
+
 + Jenkins 서버에 로그인하고 접속합니다.
 + 메인 화면에서 좌측 메뉴의 People 를 선택합니다. <br />
 ![메인화면](/images/jenkins/jenkins1.png){: .align-center}
+
 + 자신의 계정을 선택합니다. <br />
 ![계정](/images/jenkins/jenkins2.png){: .align-center}
+
 + 좌측 메뉴에서 Configure 를 선택합니다.  <br />
 ![Configure](/images/jenkins/jenkins3.png)
+
+### API Token Generate
+
 + Configure 화면이 나오면 API Token >> ADD NEW TOKEN 버튼을 선택합니다.<br />
 ![Token](/images/jenkins/jenkins4.png)
+
 + Generate 버튼을 선택합니다. <br />
 ![Generate](/images/jenkins/jenkins5.png)
-+ 생성된 TOKEN 값을 복사한 후에 잊어버리지 않도록 잘 저장합니다. <br />
+
++ 생성된 Token 값을 복사한 후에 잊어버리지 않도록 잘 저장합니다. 이 Token은 **플러그인 설정**[설정으로 이동](/jenkinssuite/jenkinssuite-30-connection/#settings){: .btn .btn--info} 에서 사용합니다.
 ![Token](/images/jenkins/jenkins6.png)

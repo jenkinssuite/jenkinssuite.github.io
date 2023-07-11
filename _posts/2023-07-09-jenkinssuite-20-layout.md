@@ -1,6 +1,6 @@
 ---
 title: Jenkins Suite Layout
-description: Jenkins Suite Layout
+description: jenkinssuite Jenkins Suite Layout
 categories:
   - jenkinssuite
 tags:

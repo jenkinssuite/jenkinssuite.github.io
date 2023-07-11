@@ -1,6 +1,6 @@
 ---
 title: Jenkins Suite [en]
-description: Jenkins Suite English Document
+description: jenkinssuite Jenkins Suite English Document
 categories:
   - jenkinssuite_en
 tags:

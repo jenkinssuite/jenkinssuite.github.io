@@ -1,6 +1,6 @@
 ---
 title: Jenkins Suite Connection
-description: Jenkins Suite settings connection
+description: jenkinssuite Jenkins Suite settings connection
 categories:
   - jenkinssuite
 tags:

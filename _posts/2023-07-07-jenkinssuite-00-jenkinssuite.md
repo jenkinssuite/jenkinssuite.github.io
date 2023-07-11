@@ -1,11 +1,15 @@
 ---
 title: Jenkins Suite
-description: Jenkins Suite 한글 가이드
+description: jenkinssuite Jenkins Suite 한글 가이드
 categories:
   - jenkinssuite
 tags:
   - jenkinssuite
 ---
+
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/utocode.jenkinssuite?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/utocode.jenkinssuite?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite)
+[![License](https://img.shields.io/github/license/utocode/jenkins-suite?style=for-the-badge&logo=)](https://github.com/utocode/jenkins-suite/blob/master/LICENSE)
 
 Jenkins Suite 에 대한 가이드를 제공합니다. <br />
 이 프로그램은 [Visual Studio Code](https://code.visualstudio.com/)의 Extension 프로그램이지만 [Jenkins](https://www.jenkins.io/) 서버를 필요로 합니다. 그렇기 때문에 Jenkins 가 설치된 서버 환경이나 로컬에 직접 설치해야만 사용할 수 있습니다. <br />

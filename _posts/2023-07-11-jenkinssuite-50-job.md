@@ -1,6 +1,6 @@
 ---
 title: Jenkins Suite Job
-description: Jenkins Suite Job
+description: jenkinssuite Jenkins Suite Job
 categories:
   - jenkinssuite
 tags:

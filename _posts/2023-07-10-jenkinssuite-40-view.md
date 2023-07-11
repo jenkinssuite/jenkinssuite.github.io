@@ -1,6 +1,6 @@
 ---
 title: Jenkins Suite View
-description: Jenkins Suite View
+description: jenkinssuite Jenkins Suite View
 categories:
   - jenkinssuite
 tags:
@@ -24,7 +24,7 @@ Jenkins 에 접속하면 가장 처음 나오는 Dashboard 에서 볼 수 있는
 > 기존 *All* View 혹은 새로 생성한 View에서 마우스 우측 버튼을 누르면 해당 View 의 설정를 조회할 수 있습니다.
 
 * columns 의 순서와 includeRegex 를 간단하게 수정할 수 있다.
-* Jenkins 의 설정 파일 (XML Data)를 수정한 후에는 (Ctrl+K F3)를 눌러 설정을 반영할 수 있다.
+* Jenkins 의 설정 파일 (XML Data)를 수정한 후에는 Execute View (Ctrl+K F3)를 눌러 설정을 반영할 수 있다.
 
 ![GetConfig](/images/view/view_04_01.png)
 
@@ -34,4 +34,4 @@ Jenkins 에 접속하면 가장 처음 나오는 Dashboard 에서 볼 수 있는
 
 ### Rename View
 
-> Default view 가 아닌 경우에는 View 의 이름을 변경이 가능하다.
+> Default view 가 아닌 경우에는 View 의 이름을 변경할 수 있다.
