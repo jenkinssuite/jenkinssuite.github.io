@@ -4,8 +4,6 @@ main:
     url: https://marketplace.visualstudio.com/items?itemName=utocode.jenkinssuite
 #   - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Category"
     url: /categories/
   - title: "Tags"
@@ -24,3 +22,7 @@ categories:
     children:
       - title: "Jenkins"
         url: /categories/jenkins
+  # - title: "Gift"
+  #   children:
+  #     - title: "Buy Me a Coffee"
+  #       url: /buymeacoffee/

@@ -7,7 +7,7 @@ tags:
   - jenkinssuite
 ---
 
-Jenkins 에 접속하면 가장 처음 나오는 Dashboard 에서 볼 수 있는 View 의 리스트입니다. View 를 생성/수정 혹은 설정을 볼 수 있습니다.
+Jenkins 에 접속하면 처음 나오는 Dashboard (메인 페이지) 에서 볼 수 있는 View 의 리스트와 동일한 목록입니다. View 를 생성/수정 혹은 설정을 조회하거나 변경할 수 있습니다.
 
 ![View](/images/view/view_01.png)
 
