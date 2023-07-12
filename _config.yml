@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "JenkinsSuite"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jenkins Suite Developer"
+#  bio              : ""
 #  location         : "Korea"
   email            :
   links:
