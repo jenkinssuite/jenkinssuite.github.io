@@ -19,7 +19,7 @@ Jenkins 에 접속하면 처음 나오는 Dashboard (메인 페이지) 에서 �
 
 ![CreateView](/images/view/view_02.png)
 
-### Get Config View
+### Config View
 
 > 기존 *All* View 혹은 새로 생성한 View에서 마우스 우측 버튼을 누르면 해당 View 의 설정를 조회할 수 있습니다.
 
