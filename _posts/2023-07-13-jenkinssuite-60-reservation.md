@@ -23,7 +23,7 @@ Jenkins 를 사용하면서 (설정을 변경하지 않고) 10분 혹은 30분 �
 
 ![reservation1](/images/reservation/reservation_01.png)
 
-> 에약 빌드를 하게 되면 Reservation Tree View 에서 확인하실 수 있습니다. 등록되는 시간이 아닌 실행되는 순서로 표시됩니다.
+> 예약 빌드를 하게 되면 Reservation Tree View 에서 확인하실 수 있습니다. 등록되는 시간이 아닌 실행되는 순서로 표시됩니다.
 
 ![reservation2](/images/reservation/reservation_02.png)
 

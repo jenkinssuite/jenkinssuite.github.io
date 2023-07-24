@@ -45,6 +45,7 @@ WsTalk은 수동 설치만 가능합니다.
 - [Job 생성 및 수정, 실행](../jenkinssuite-50-job)
 - [Job 예약](../jenkinssuite-60-reservation)
 - [Generate Code](../jenkinssuite-70-generate)
+- [Project](../jenkinssuite-80-project)
 
 이 문서는 Jenkins 및 VS Code가 설치되어 있다는 가정하에 작성되었습니다.
 {: .notice--success}

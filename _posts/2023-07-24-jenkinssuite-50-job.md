@@ -42,9 +42,9 @@ Jenkins 에서 가장 많이 사용하는 Job 입니다. Jenkins에서 지원하
 현재는 String 파라미터만 지원 가능합니다.
 {: .notice--warning}
 
-### 설정 조회 (Get Config Job)
+### 설정 조회 (Config Job)
 
-> 설정 조회 (Get config Job)를 선택하면 하단의 이미지처럼 XML 를 조회해서 Editor 창에 출력한다.
+> 설정 조회 (Config Job)를 선택하면 하단의 이미지처럼 XML 를 조회해서 Editor 창에 출력한다.
 
 * View 와 동일하게 Job 도 변경사항을 수정하고 바로 Jenkins 서버로 업데이트를 하면 바로 변경이 가능하다
 * Jenkins 의 설정 파일 (XML Data)를 수정한 후에는 Execute Job (Ctrl+K F4)를 눌러 설정을 반영할 수 있습니다.
